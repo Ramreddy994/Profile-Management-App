@@ -19,3 +19,24 @@
 
 ## Deployment
 The app is deployed at: [Deployed Link](https://your-deployment-url.com)
+
+
+
+
+
+# Profile Form Project
+
+This project is a React application created with TypeScript for managing a user profile form. The form collects user details, performs validation, and integrates with a mock API.
+
+## Prerequisites
+
+- Node.js and npm
+
+## Getting Started
+
+1. *Clone the repository*: git clone <repository-url>
+2. *Install dependencies*: npm install
+3. *Start the development server*: npm start
+4. *Run json-server for the mock API*:
+   ```bash
+   npx json-server --watch db.json --port 5000
